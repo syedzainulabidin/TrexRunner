@@ -4,7 +4,7 @@
 
 ## Game Overview
 
-In **T-rex Runner**, the T-rex automatically runs forward, and the player must help it avoid obstacles by jumping or ducking. The game increases in difficulty as the T-rex continues running, with obstacles appearing more frequently and at higher speeds.
+In **T-rex Runner**, the T-rex automatically runs forward, and the player must help it avoid obstacles by jumping or ducking.
 
 ## Features
 
