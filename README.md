@@ -10,8 +10,6 @@ In **T-rex Runner**, the T-rex automatically runs forward, and the player must h
 
 - **Endless Runner**: The game continues as long as the player avoids obstacles, with no end point.
 - **Simple Controls**: Use the spacebar or touch input (for mobile devices) to make the T-rex jump.
-- **Increasing Difficulty**: As the player progresses, the game speed and frequency of obstacles increase.
-- **High Score Tracking**: The game tracks and displays the player's best score, motivating replayability.
 
 ## Technologies Used
 
@@ -39,4 +37,5 @@ In **T-rex Runner**, the T-rex automatically runs forward, and the player must h
 
 ## License
 
-This project is licensed under the MIT License & maintained by Syed Ali
+This project is licensed under the MIT License & maintained by Syed Ali 
+© 2024 Syed Ali | All Right Reserved
